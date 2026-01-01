@@ -1,0 +1,620 @@
+[
+  {
+    "id": "4a0dc682-6763-423e-a7bb-0c53d6fcb6bf",
+    "title": "Getting started",
+    "totalQuestCount": 1,
+    "claimedQuestCount": 0,
+    "quests": [
+      {
+        "id": "60b7815b-ac07-4aee-a44a-4cedbd43a3d2",
+        "tasks": [
+          {
+            "type": "visitLink"
+          },
+          {
+            "type": "partnership"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      }
+    ]
+  },
+  {
+    "id": "b5e4aea4-fc2f-4960-89ca-e1b1a3bca66e",
+    "title": "Week 1 - Mistletoe Mission: Follow & Join the Party 🎄",
+    "totalQuestCount": 21,
+    "claimedQuestCount": 0,
+    "quests": [
+      {
+        "id": "2f4bd5c8-186f-4251-9416-0a6976d1191d",
+        "tasks": [
+          {
+            "type": "proveYourHumanity"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "9861200e-ffc7-4987-91bd-e87fff64a28a",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "95fdf8c5-0ad2-4ae3-941e-b6f764138358",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "6168216c-34e4-452c-9d94-06ee4c9c4b02",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "58ea2236-206d-4de2-83f9-0d76ee4f5799",
+        "tasks": [
+          {
+            "type": "visitLink"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "a3ee133b-24e2-4f9f-ac7e-43d138bb7964",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "4098ec2a-e7b6-4ab5-9fdc-66057c0c5fa3",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "26895e85-ff22-428e-981a-8d51627c1553",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "d1b9853d-19bf-4de7-818a-1630d8691960",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "363788ab-5a96-4d4f-b108-4e359f3fbeb6",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "64615883-1d8a-4faf-9da2-0a18257397a2",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "fc93474e-35f0-430f-bdef-52a688b1ae75",
+        "tasks": [
+          {
+            "type": "telegram"
+          },
+          {
+            "type": "file"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "f180338c-1989-4be5-ac5d-473d2803d591",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "0b37b639-c51b-4cac-b22d-5717a3b67825",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "21e336b5-3403-4e1b-be52-3a56a47a6b79",
+        "tasks": [
+          {
+            "type": "tweetReact"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "1e5e156c-8c84-4153-9e77-263aa86a96dd",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "c1be8d56-32cf-48a7-b877-bbb70865d2b0",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "0dc9723d-f06b-45fe-a6f3-5285515a9a55",
+        "tasks": [
+          {
+            "type": "visitLink"
+          },
+          {
+            "type": "file"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "afa92515-ce66-4b84-a316-0d561d9d20fb",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "9a425d71-39f4-45ef-8586-b504672476fc",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "c3614d4c-1edb-4250-b1b4-f59c1a544039",
+        "tasks": [
+          {
+            "type": "twitterFollow"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      }
+    ]
+  },
+  {
+    "id": "3ceef0f6-271d-4497-b581-37d92f9ee1a4",
+    "title": "Week 2 - Daily Festive Dash 🎅",
+    "totalQuestCount": 11,
+    "claimedQuestCount": 0,
+    "quests": [
+      {
+        "id": "32abd838-8603-427c-9827-bcc4c0440a86",
+        "tasks": [
+          {
+            "type": "tweetReact"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "58863dbf-083c-4a83-9dc1-bc2b62859abf",
+        "tasks": [
+          {
+            "type": "tweet"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "0cf1d254-8e00-4168-95dc-8723e89e7b0a",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "b03cc05d-1860-44d2-842b-2e914a26c662",
+        "tasks": [
+          {
+            "type": "tweetReact"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "b6107004-74ca-4938-8e7e-4edbdd3d643a",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "7e256d88-2015-42b3-b9d8-a21180e5e9d5",
+        "tasks": [
+          {
+            "type": "telegram"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "8d8c6773-d8d5-4b42-aef0-dea22313a672",
+        "tasks": [
+          {
+            "type": "poll"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "4b418fc1-53f1-4c65-9dcb-91c13c4cb6b6",
+        "tasks": [
+          {
+            "type": "tweetReact"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "822f5ef1-e15a-4a5c-8a2f-f6d57feca439",
+        "tasks": [
+          {
+            "type": "visitLink"
+          },
+          {
+            "type": "file"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "2812ebfb-25b3-4a4c-85b9-cdf99efe2414",
+        "tasks": [
+          {
+            "type": "visitLink"
+          },
+          {
+            "type": "file"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "31430681-b703-41fa-9d1a-101c82bd0e0b",
+        "tasks": [
+          {
+            "type": "tweet"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      }
+    ]
+  },
+  {
+    "id": "17488718-b146-4a7b-9d5f-8800e6283eb3",
+    "title": "Week 3 - Weekly Tasks & Holiday Hustle 🎁",
+    "totalQuestCount": 4,
+    "claimedQuestCount": 0,
+    "quests": [
+      {
+        "id": "04920ef9-6f30-46ea-b351-d0c8c34039d0",
+        "tasks": [
+          {
+            "type": "tweetReact"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "b07c7354-4760-4896-9552-728be56e44f1",
+        "tasks": [
+          {
+            "type": "tweet"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "fdb82299-9e4d-4e10-b3ab-3cdde29dbd53",
+        "tasks": [
+          {
+            "type": "telegram"
+          },
+          {
+            "type": "file"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "5406751a-e290-409b-ae73-e1db3dc89df1",
+        "tasks": [
+          {
+            "type": "poll"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      }
+    ]
+  },
+  {
+    "id": "0218231d-1d35-487c-8d84-8abe05fd4414",
+    "title": "Week 4 - Santa’s Sack: Grand Raffle & Final Festive Poll ",
+    "totalQuestCount": 3,
+    "claimedQuestCount": 0,
+    "quests": [
+      {
+        "id": "59599bb3-84d0-499f-8a0f-7635231c8662",
+        "tasks": [
+          {
+            "type": "tweetReact"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "b08b8117-ef16-45a4-88e4-8ea7255bfe32",
+        "tasks": [
+          {
+            "type": "poll"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": false,
+        "opened": true
+      },
+      {
+        "id": "1cb17286-79e2-482f-b477-6e9518e4c8a9",
+        "tasks": [
+          {
+            "type": "tweetReact"
+          }
+        ],
+        "canRetry": true,
+        "claimed": false,
+        "completed": false,
+        "inReview": false,
+        "locked": true,
+        "opened": true
+      }
+    ]
+  }
+]
