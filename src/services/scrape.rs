@@ -201,6 +201,7 @@ pub async fn scrape(event_name: String) -> Result<(), String> {
         }
         _ => {
             fs::write(&file_path, text_json).unwrap();
+            println!("created file: {}", &file_path)
         }
     }
 
