@@ -33,7 +33,7 @@ async fn main() -> Result<(), String> {
                     _ => {}
                 }
 
-                tokio::time::sleep(Duration::from_micros(100000)).await;
+                tokio::time::sleep(Duration::from_secs(1)).await;
             }
         });
     }
