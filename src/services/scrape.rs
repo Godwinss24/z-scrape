@@ -19,7 +19,7 @@ pub async fn scrape(event_name: String) -> Result<(), String> {
     let result = match get_data(link).await {
         Ok(x) => x,
         Err(e) => {
-            println!("{:?}", e.to_string());
+            println!("Result: {:?}", e.to_string());
             return Err(e.to_string());
         }
     };
@@ -27,15 +27,17 @@ pub async fn scrape(event_name: String) -> Result<(), String> {
     let text = match result.text().await {
         Ok(x) => x,
         Err(e) => {
-            println!("{:?}", e.to_string());
+            println!("An error occured while deserializing to string: {:?}", e.to_string());
             return Err(e.to_string());
         }
     };
 
+    // println!("{:?}", &text);
+
     let current_payload = match serde_json::from_str::<Vec<Category>>(&text) {
         Ok(x) => x,
         Err(e) => {
-            println!("{:?}", e.to_string());
+            println!("An error occured when serializing into struct: {:?}", e.to_string());
             return Err(e.to_string());
         }
     };
@@ -43,7 +45,7 @@ pub async fn scrape(event_name: String) -> Result<(), String> {
     let text_json = match serde_json::to_string_pretty(&current_payload) {
         Ok(x) => x,
         Err(e) => {
-            println!("{:?}", e.to_string());
+            println!("From here: {:?}", e.to_string());
             return Err(e.to_string());
         }
     };
@@ -55,7 +57,7 @@ pub async fn scrape(event_name: String) -> Result<(), String> {
             let stored_payload = match serde_json::from_str::<Vec<Category>>(&x) {
                 Ok(x) => x,
                 Err(e) => {
-                    println!("{:?}", e.to_string());
+                    println!("Stored payload {:?}", e.to_string());
                     return Err(e.to_string());
                 }
             };
@@ -79,7 +81,7 @@ pub async fn scrape(event_name: String) -> Result<(), String> {
                                     )).serialize_body() {
                                         Ok(x) => x,
                                         Err(e) => {
-                                            println!("{:?}", e.to_string());
+                                            println!("while serializing body {:?}", e.to_string());
                                             return Err(e.to_string());
                                         }
                                     };
